@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовая_работа_ИЦГН_.CK">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_ИЦГН_.CK2">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CK2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_ИЦГН_.Excell" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAGAAAAACAAAAAABAAAAAARAAAACEAAA=</HashCode>
+      <FileName>Excell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_ИЦГН_.Humans">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAARAAAAEQAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Humans.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_ИЦГН_.ICGN">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAACAACAAgQAAEAEAAA=</HashCode>
+      <FileName>ICGN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_ИЦГН_.Otvet">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAABAAgAAUAIAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Otvet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_ИЦГН_.Special" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAg=</HashCode>
+      <FileName>Special.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа_ИЦГН_.Voprosi" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Voprosi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

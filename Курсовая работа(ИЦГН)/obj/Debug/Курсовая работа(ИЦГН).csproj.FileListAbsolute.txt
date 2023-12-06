@@ -1,0 +1,71 @@
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe.config
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).pdb
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csprojAssemblyReference.cache
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Form1.resources
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Properties.Resources.resources
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.GenerateResource.cache
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.CoreCompileInputs.cache
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).exe
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).pdb
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.vopros1.resources
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Itog.resources
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.ResolveComReference.cache
+D:\всё ещё для института\2 курс\Языки пр\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Statist.resources
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe.config
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).pdb
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csprojAssemblyReference.cache
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.ResolveComReference.cache
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Form1.resources
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Itog.resources
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Properties.Resources.resources
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Statist.resources
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.vopros1.resources
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.GenerateResource.cache
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.CoreCompileInputs.cache
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).exe
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).pdb
+E:\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Korrektor.resources
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe.config
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).pdb
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csprojAssemblyReference.cache
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.ResolveComReference.cache
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Form1.resources
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Itog.resources
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Korrektor.resources
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Properties.Resources.resources
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Statist.resources
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.vopros1.resources
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.GenerateResource.cache
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.CoreCompileInputs.cache
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).exe
+C:\Users\d-les\Downloads\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).pdb
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csprojAssemblyReference.cache
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.ResolveComReference.cache
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Form1.resources
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Itog.resources
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Korrektor.resources
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Properties.Resources.resources
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Statist.resources
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.vopros1.resources
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.GenerateResource.cache
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.CoreCompileInputs.cache
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).exe
+C:\Users\d-les\Desktop\Курсовая работа(ИЦГН)\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).pdb
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe.config
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).exe
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\bin\Debug\Курсовая работа(ИЦГН).pdb
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.AssemblyReference.cache
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.ResolveComReference.cache
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Form1.resources
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Itog.resources
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Korrektor.resources
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Properties.Resources.resources
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.Statist.resources
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая_работа_ИЦГН_.vopros1.resources
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.GenerateResource.cache
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).csproj.CoreCompileInputs.cache
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).exe
+C:\Users\DEXTLEER\Desktop\Курсовая работа. Языки программирования\Курсовая работа(ИЦГН)\obj\Debug\Курсовая работа(ИЦГН).pdb
